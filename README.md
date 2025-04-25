@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps and AWS
 - 🌱 I’m practicing DevOps and AWS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me satya.dusanapudi@gmail.com
+- 📫 How to reach me lakshmi.dusanapudi@gmail.com
 - 😄 Pronouns: Mrs
 - ⚡ Fun fact: ...
 
