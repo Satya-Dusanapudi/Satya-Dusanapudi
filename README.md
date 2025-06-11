@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Satya-Dusanapudi
-- 👀 I’m interested in DevOps and AWS
+- 👀 I’m a DevOps and AWS Engineer
 - 🌱 I’m practicing DevOps and AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lakshmi.dusanapudi@gmail.com
